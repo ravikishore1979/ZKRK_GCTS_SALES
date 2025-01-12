@@ -1,6 +1,6 @@
   METHOD GETMETHOD.
-    "Test method.
+    "Test method sdf.
     DATA lv_value TYPE I.
-    lv_value = 5 + 10.
-    "comment2 for conflict
+    lv_value = 5 + 9.
+    " test from dev
   ENDMETHOD.
